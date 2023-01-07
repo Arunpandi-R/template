@@ -1,0 +1,11 @@
+.idea/.gitignore
+.idea/flask_task.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+__pycache__/config.cpython-36.pyc
+__pycache__/login.cpython-36.pyc
+__pycache__/register.cpython-36.pyc
+__pycache__/request_handler.cpython-36.pyc
+__pycache__/templte_create.cpython-36.pyc
